@@ -1,4 +1,5 @@
 # Zhaimer
+<img width="60" alt="image" src="https://user-images.githubusercontent.com/116814766/212569317-89bbffaf-4b7f-49f9-9e80-da21e831094c.png">
 
 Challenge Statement:
 
