@@ -24,4 +24,4 @@ Alzheimer:
 
 Challenge Summary:
 
-We hoped to help people with alzheimer or who may have Alzheimer risk even people who want to improve their memorize skills by making an app that sends remidning notifications with memory games, exercises and relative advices to help also an Ayats from Quran to save because based on our research this method is affective on human memorize skills, also we planned to put voice over but we ran out of time ( Lama and Khadijah)
+We hoped to help people with alzheimer or who may have Alzheimer risk even people who want to improve their memorize skills by making an app that sends remidning notifications with memory games, exercises and relative advices to help also an Ayats from Quran to save because based on our research this method is affective on human memorize skills, also we planned to put voice over but Unfortunately we ran out of time ( Lama and Khadijah)
